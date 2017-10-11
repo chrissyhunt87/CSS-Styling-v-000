@@ -11,6 +11,8 @@ selector {
 
 /* Type selector */
 
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+
 p {
   /* select all <p> */
   font-size: 1em;
